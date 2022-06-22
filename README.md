@@ -13,7 +13,7 @@ O projeto final do módulo 1 foi uma calculadora utilizando os conhecimentos de 
 
 ## Módulo 2:
 
-O módulo 2 começa com um desafio de React que eu achei bem interessante, pelo fato de ser o primeiro contato que tenho com React.
+O módulo 2 começa com um desafio de React que eu achei bem interessante, pelo fato de ser o primeiro contato que tenho com React, o tema do desafio era relativamente simples, foi pedido para que fosse criado um App que exibisse "Hello Wolrd" de 10 maneiras diferentes, além disso, também era preciso exibir a data atual em cada uma das formas (utilizando JavaScript Date).
 
 ![image](https://user-images.githubusercontent.com/98846868/175104263-dde377a9-f5eb-4264-a617-d858ca20fd12.png)
 

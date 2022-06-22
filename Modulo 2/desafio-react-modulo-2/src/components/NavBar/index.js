@@ -1,7 +1,7 @@
 import React from "react";
-import './Style.css'
+import './Style.css';
 
-const logo = require('./assets/logo192.png')
+const logo = require('./assets/logo192.png');
 
 function NavBar(){
     return(

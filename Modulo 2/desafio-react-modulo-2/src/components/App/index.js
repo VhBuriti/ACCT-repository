@@ -1,5 +1,5 @@
 import React from "react";
-import './Style.css'
+import './Style.css';
 
 let newDate = new Date();
 let date = `${newDate.getDate()}/${newDate.getMonth()+1}/${newDate.getFullYear()}`;
@@ -8,7 +8,7 @@ function reverseString(str) {
   return str.split("").reverse().join("");
 }
 
-const invertedHello = reverseString("Hello World")
+const invertedHello = reverseString("Hello World");
 
 
 function App() {

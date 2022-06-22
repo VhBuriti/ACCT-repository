@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Módulo 1 - Calculadora JS</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="calculator">
+            <div id="top">
+                <div id="old_operation">0</div>
+                <div id="result_div">
+                    0
+                </div>
+
+            </div>
+
+
+
+            <div id="bottom">
+                <div class="buttons">
+                    <button type="button" class="special" onclick="clean()" id="clean_btn">C</button>
+                    <button type="button" class="special" onclick="invertNum()">±</button>
+                    <button type="button" class="special" onclick="insert('+')">+</button>
+                    <button type="button" onclick="insert('7')">7</button>
+                    <button type="button" onclick="insert('8')">8</button>
+                    <button type="button" onclick="insert('9')">9</button>
+                    <button type="button" class="special" onclick="insert('-')">-</button>
+
+                    <button type="button" onclick="insert('6')">6</button>
+                    <button type="button" onclick="insert('5')">5</button>
+                    <button type="button" onclick="insert('4')">4</button>
+                    <button type="button" class="special" onclick="insert('*')" >*</button>
+                    <button type="button" onclick="insert('1')">1</button>
+                    <button type="button" onclick="insert('2')">2</button>
+                    <button type="button" onclick="insert('3')">3</button>
+                    <button type="button" class="special" id="div" onclick="insert('/')">/</button>
+
+                    <button type="button" id="zero" onclick="insert(0)">0</button>
+                    <button type="button" id="dot" onclick="insert('.')">.</button>
+                    <button type="button" class="special" id="equal" onclick="calcular()">=</button>
+
+
+
+                </div>
+
+
+            
+            </div>
+        </div>
+
+
+
+
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>

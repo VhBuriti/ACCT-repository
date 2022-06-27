@@ -19,7 +19,7 @@ O módulo 2 começa com um desafio de React que eu achei bem interessante, pelo 
 
 ![image](https://user-images.githubusercontent.com/98846868/175104303-f15731c1-60e2-421a-ad0f-64f1bcb3aa4c.png)
 
-<h3>APIs rest e Postman</h3>
+<h3>APIs e Postman</h3>
 
 Nessa última parte do módulo foi feita uma introdução a APIs e o Postman, acabei estudando não só sobre APIs gerais, mas também sobre aquelas disponibilizadas pela Vtex, segue a resolução do exercício:
 

@@ -24,3 +24,10 @@ Além disso, também temos as marcas, que também são cadastradas pelo cliente,
 
 <h2>Preços, promoções e taxas</h2>
 
+>Cada produto tem seu respectivo preço base, esse preço é calculado a partir de dois fatores, o preço de custo e o Markup Inicial (Lucro desejado com base no preço de custo), temos diferentes formas de adicionar, modificar ou remover preços, uma delas é a precificação em massa, que basicamente aplica um mesmo preço para uma série de produtos selecionados
+<br><br>
+>Além disso, também temos as políticas de preços, que são por exemplo, a mudança de preços com diferentes moedas, como o real e o dolar, além disso, essas políticas também podem funcionar como descontos relacionados a atacados.
+<br><br>
+>Outro aspecto importante é o arredondamento de preços, basicamente, um produto que custa R$100, vai estar custando na verdade, R$99,99, algo que chamamos de preço psicológico, que incentiva a compra, quando o cliente vê um preço menor que o preço inteiro, ele acaba tendo uma tendência maior a comprar.
+<br><br>
+Outra coisa é a configuração de limite de acrescimo e desconto de produtos, que também pode ser definida pelo cliente (loja)

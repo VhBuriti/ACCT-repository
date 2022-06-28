@@ -40,4 +40,14 @@ Dentro do catálogo existe diversas opções para serem exploradas, mas vamos fo
 
 <h3>Taxas</h3>
 
-<p>As taxas são basicamente o contrário das promoções, podem ser impostos, taxas, CMS, funciona da mesma forma das promoções, ela basicamente faz o preço subir por algum motivo.</p>
+<p>As taxas são basicamente o contrário das promoções, podem ser impostos, taxas, CMS, funciona da mesma forma das promoções, ela basicamente faz o preço subir por algum motivo, podendo essa taxa ser: Nominal, Percentual, com base em alguma fórmula ou sobre o frete</p>
+
+<h2>Pedidos</h2>
+
+<p>A VTEX tem duas formas de calcular o frete para o cliente, sendo elas: <strong>Com base no peso real do produto e com base no peso cúbico do produto</strong></p>
+
+>Docas: As docas são os pontos onde a transportadora retirará o produto para entrega.
+
+<h2>Pagamentos</h2>
+
+<p></p>

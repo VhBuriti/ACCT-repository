@@ -29,5 +29,9 @@ Além disso, também temos as marcas, que também são cadastradas pelo cliente,
 >Além disso, também temos as políticas de preços, que são por exemplo, a mudança de preços com diferentes moedas, como o real e o dolar, além disso, essas políticas também podem funcionar como descontos relacionados a atacados.
 <br><br>
 >Outro aspecto importante é o arredondamento de preços, basicamente, um produto que custa R$100, vai estar custando na verdade, R$99,99, algo que chamamos de preço psicológico, que incentiva a compra, quando o cliente vê um preço menor que o preço inteiro, ele acaba tendo uma tendência maior a comprar.
-<br><br>
+
 Outra coisa é a configuração de limite de acrescimo e desconto de produtos, que também pode ser definida pelo cliente (loja)
+<br>
+<h3>Promoções e campanhas</h3>
+<br>
+Temos algo chamado de campanha, que basicamente é algo que criamos, que contém todas as condições necessárias pra uma promoção, cada campanha é acompanhada de seu nome, descrição e duração da campanha (data de ínicio e de fim, hora de ínicio e de fim), além disso, também escolhemos quais SKUs participarão da campanha e o valor mínimo e máximo para a campanha possa ser aplicada e também temos a promoção em si, que é chamada de "público-alvo" dentro da campanha.

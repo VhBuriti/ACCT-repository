@@ -35,3 +35,5 @@ Outra coisa é a configuração de limite de acrescimo e desconto de produtos, q
 <h3>Promoções e campanhas</h3>
 <br>
 Temos algo chamado de campanha, que basicamente é algo que criamos, que contém todas as condições necessárias pra uma promoção, cada campanha é acompanhada de seu nome, descrição e duração da campanha (data de ínicio e de fim, hora de ínicio e de fim), além disso, também escolhemos quais SKUs participarão da campanha e o valor mínimo e máximo para a campanha possa ser aplicada e também temos a promoção em si, que é chamada de "público-alvo" dentro da campanha.
+<br><br>
+*Temos diversos tipos de promoções, por exemplo, a promoção de frete grátis, compre 6 e page 5, promoção regular, compre e ganhe e promoções de campanha.*

@@ -35,3 +35,9 @@ Dentro do catálogo existe diversas opções para serem exploradas, mas vamos fo
 
 
 *<p>Temos diversos tipos de promoções, por exemplo, a promoção de frete grátis, compre 6 e page 5, promoção regular, compre e ganhe e promoções de campanha.</p>*
+
+<p>Também temos os cupons de desconto, que funcionam juntamente com as promoções</p> 
+
+<h3>Taxas</h3>
+
+<p>As taxas são basicamente o contrário das promoções, podem ser impostos, taxas, CMS, funciona da mesma forma das promoções, ela basicamente faz o preço subir por algum motivo.</p>

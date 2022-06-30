@@ -24,3 +24,7 @@ O módulo 2 começa com um desafio de React que eu achei bem interessante, pelo 
 Nessa última parte do módulo foi feita uma introdução a APIs e o Postman, acabei estudando não só sobre APIs gerais, mas também sobre aquelas disponibilizadas pela Vtex, segue a resolução do exercício:
 
 {{account_name}}/api/dataentities/{{data_entity_name}}/search?_fields=email,firstName,document&_schema=schema
+
+## Módulo 3:
+
+O módulo 3 foi totalmente teorico, apresentando a plataforma da VTEX, seus aspectos, suas configurações, etc. Tudo isso pode ser encontrado no README que se encontra na psata do módulo.
